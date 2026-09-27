@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "one1": {
+      "type": "streamableHttp",
+      "url": "https://one1.cn/mcp"
+    }
+  }
+}

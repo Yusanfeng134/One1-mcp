@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "one1": {
+      "type": "http",
+      "url": "https://one1.cn/mcp"
+    }
+  }
+}
